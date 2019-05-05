@@ -1775,6 +1775,8 @@ body {
   color: #cc2952 !important;
 }
 .cid-qTkA127IK8 {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-qTkA127IK8 H3 {
@@ -2428,6 +2430,41 @@ body {
     width: 100% !important;
   }
 }
+.cid-rpx4yJ1owh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rpx4yJ1owh .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rpx4yJ1owh .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-rpx4yJ1owh .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-rpx4yJ1owh .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-rpx4yJ1owh .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rpx4yJ1owh .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rpx4yJ1owh .iconfont-wrapper {
+    display: none;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2809,9 +2846,30 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
 }
+.cid-rpx4KNrt8K {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rpx4KNrt8K .title {
+  margin-bottom: 2rem;
+}
+.cid-rpx4KNrt8K .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rpx4KNrt8K a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rpx4KNrt8K a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rpx4KNrt8K textarea.form-control {
+  min-height: 188px;
+}
 .cid-rpx4wc7nxb {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rpx4wc7nxb .mbr-section-subtitle {
@@ -2852,61 +2910,5 @@ body {
 @media (min-width: 769px) {
   .cid-rpx4wc7nxb .mbr-form .row > * {
     padding: 0 0.5rem;
-  }
-}
-.cid-rpx4KNrt8K {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rpx4KNrt8K .title {
-  margin-bottom: 2rem;
-}
-.cid-rpx4KNrt8K .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rpx4KNrt8K a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rpx4KNrt8K a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rpx4KNrt8K textarea.form-control {
-  min-height: 188px;
-}
-.cid-rpx4yJ1owh {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rpx4yJ1owh .title {
-  padding-bottom: 2.5rem;
-}
-.cid-rpx4yJ1owh .mbr-text {
-  color: #767676;
-  margin: 0;
-  padding-top: 0.5rem;
-}
-.cid-rpx4yJ1owh .iconfont-wrapper {
-  display: flex;
-  align-items: center;
-  width: 2rem;
-  height: 2rem;
-  margin-right: 2rem;
-}
-.cid-rpx4yJ1owh .iconfont-wrapper .amp-iconfont {
-  font-size: 2rem;
-}
-.cid-rpx4yJ1owh .wrapper {
-  display: flex;
-  padding: 1rem 0;
-}
-.cid-rpx4yJ1owh .wrapper .b-info {
-  width: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rpx4yJ1owh .iconfont-wrapper {
-    display: none;
   }
 }
