@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -811,7 +811,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-b"
+          "_anchor": "feed-o"
         }
       ]
     },
