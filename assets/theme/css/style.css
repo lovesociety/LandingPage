@@ -498,3 +498,18 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+
+
+/*Estilos personales*/
+.navbar-buttons .display-4:hover > .mbri-hearth{
+color:red;
+}
+
+.social-list a .mbr-iconfont:hover{
+  -webkit-transition: color 2s, font-size 2s;
+  -moz-transition: color 2s, font-size 2s;
+    -o-transition: color 2s, font-size 2s;
+       transition: color 2s, font-size 2s;
+       font-size: 60px;
+}
